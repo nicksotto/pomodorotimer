@@ -9,6 +9,16 @@
 
 ---
 
+**Language**: **en** <a href="./README.md">English</a>
+
+​				**zh_CN** <a href="./docs/language/README_zh.md">简体中文</a>
+
+​					 **zh_TW** <a href="./docs/language/README_tw.md">繁體中文</a>
+
+------
+
+**catalog:**
+
 - [Overview](#overview)
 - [Features](#features)
   - [Themes](#themes)
